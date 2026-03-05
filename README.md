@@ -1,6 +1,6 @@
 1.Создал VM Ubuntu_us на гипервизозе VMWare
-2.Настроил доступ по ssh
-3.Установил утилиту tree (`sudo apt install -y`)
+2. Настроил доступ по ssh
+3. Установил утилиту tree (`sudo apt install -y`)
 - Вывел корневое дерево каталогов (`tree -L 1 /`)
 4. В домашней директории создал каталог dvps-tasks (`mkdir ~/dvps-tasks`)
 - В каталоге dvps создал каталог Linux_01 (`mkdir ~/dvps-tasks/linux_01`)
