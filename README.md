@@ -1,4 +1,4 @@
-1.Создал VM Ubuntu_us на гипервизозе VMWare
+1. Создал VM Ubuntu_us на гипервизозе VMWare
 2. Настроил доступ по ssh
 3. Установил утилиту tree (`sudo apt install -y`)
 - Вывел корневое дерево каталогов (`tree -L 1 /`)
